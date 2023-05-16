@@ -1,0 +1,2 @@
+1. 附加数据库，建议使用sql server 2012及以上版本
+2. 本系统可单机测试，如若测试时无法调用摄像头，修改URL（http://laptop-1l48m8u4:8080/ZJT/）为（http://localhost:8080/ZJT/）即可。
